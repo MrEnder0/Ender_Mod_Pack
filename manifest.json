@@ -6,7 +6,8 @@
     "dependencies": [
         "bizzlemip-BiggerLobby-2.2.53",
         "anormaltwig-LateCompany-1.0.4",
-        "Renegades-FlashlightToggle-1.2.0",
+        "Renegades-FlashlightToggle-1.3.1",
+        "Renegades-WalkieUse-1.2.2",
         "AllToasters-SpectateEnemies-1.2.0",
         "Rozebud-FOV_Adjust-1.1.0",
         "5Bit-FPSSpectate-1.0.1",

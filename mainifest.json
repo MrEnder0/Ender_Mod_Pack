@@ -1,0 +1,16 @@
+{
+    "name": "MrEnder_Mod_pack",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/MrEnder-0",
+    "description": "This is a description for a mod. 250 characters max",
+    "dependencies": [
+        "bizzlemip-BiggerLobby-2.2.53",
+        "anormaltwig-LateCompany-1.0.4",
+        "Renegades-FlashlightToggle-1.2.0",
+        "AllToasters-SpectateEnemies-1.2.0",
+        "Rozebud-FOV_Adjust-1.1.0",
+        "5Bit-FPSSpectate-1.0.1",
+        "FlipMods-LetMeLookDown-1.0.1",
+        "tinyhoot-ShipLoot-1.0.0"
+    ]
+}
